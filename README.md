@@ -1,2 +1,2 @@
 # Python-Basic
-Python Basik Geekbrains
+Python Basic Geekbrains
